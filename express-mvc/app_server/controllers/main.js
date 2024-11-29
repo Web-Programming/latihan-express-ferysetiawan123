@@ -6,5 +6,5 @@ const index = (req, res) => {
 const kontak = (req, res) => {
 	res.render('kontak', { title: 'Express' });
 };
-
+adajsjakafhffhf
 module.exports = { index, kontak }; 
